@@ -23,7 +23,7 @@ I’m a **quick learner and highly adaptive individual** who enjoys:
 
 My diverse interests fuel creativity and problem-solving, allowing me to approach challenges with fresh perspectives.  
 
-📫 **Let’s Connect**: [Email Me](mailto:zyanchew@hotmail.com) | [LinkedIn](www.linkedin.com/in/zhi-yan-chew-5b487b198)  
+📫 **Let’s Connect**: [Email Me](mailto:zyanchew@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/zhi-yan-chew-5b487b198/)  
 
 <!---
 zyanchew/zyanchew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
