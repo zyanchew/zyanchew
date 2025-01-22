@@ -1,7 +1,7 @@
 # Hi, I'm Zhi Yan Chew 👋  
 @zyanchew  
 
-I’m a recent graduate with a **Master’s degree in Architecture, Building, and Planning** from Eindhoven University of Technology and a **Bachelor’s degree in Civil Engineering** from Tsinghua University. I am passionate about exploring innovative solutions for **sustainable urban development** and am currently seeking research or PhD opportunities to make a meaningful impact.  
+I’m a recent graduate with a **Master’s degree in Architecture, Building, and Planning** from Eindhoven University of Technology and a **Bachelor’s degree in Civil Engineering** from Tsinghua University. I am passionate about **exploring and investigating human behavior** and am currently seeking research or PhD opportunities to make a meaningful impact.  
 
 ## 🎯 **Research Interests**  
 - **Climate Change Resilience**: Adapting cities to mitigate climate change effects.  
@@ -10,8 +10,7 @@ I’m a recent graduate with a **Master’s degree in Architecture, Building, an
 - **Artificial Intelligence**: Applying AI to urban and mobility planning for smart solutions.
 
 ## 🛠 **Skills**  
-- **Programming**: Proficient in Python for data analysis, machine learning, and modeling.  
-- **Research**: Experienced in qualitative & quantitative methods.  
+- **Programming**: Proficient in Python and R.  
 - **Data Analysis**: Skilled in statistical modeling and processing complex datasets.  
 
 ## 🌱 **About Me**  
