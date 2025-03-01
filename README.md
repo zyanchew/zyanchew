@@ -3,11 +3,11 @@
 
 I’m a recent graduate with a **Master’s degree in Architecture, Building, and Planning** from Eindhoven University of Technology and a **Bachelor’s degree in Civil Engineering** from Tsinghua University. I am passionate about **exploring and investigating human behavior** and am currently seeking research or PhD opportunities to make a meaningful impact.  
 
-## 🎯 **Research Interests**  
-- **Climate Change Resilience**: Adapting cities to mitigate climate change effects.  
+## 🎯 **Research Interests**   
 - **Urban Mobility & Travel Behavior**: Understanding mobility patterns and behaviors.  
 - **Social Networks**: Exploring how social interactions shape travel and urban systems.  
 - **Artificial Intelligence**: Applying AI to urban and mobility planning for smart solutions.
+- **Climate Change Resilience**: Adapting cities to mitigate climate change effects. 
 
 ## 🛠 **Skills**  
 - **Programming**: Proficient in Python and R.  
